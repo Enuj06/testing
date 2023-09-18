@@ -6,6 +6,6 @@
     <title></title>
 </head>
 <body>
-    <h1>Product Listing</h1>
+    <h1 style="text-align: center">Product Listing</h1>
 </body>
 </html>
