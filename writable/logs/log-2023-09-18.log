@@ -1,0 +1,64 @@
+CRITICAL - 2023-09-18 10:22:39 --> Class "App\Controllers\App\Models\ProductModel" not found
+in APPPATH\Controllers\ProductController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\testing\\public\\index.php')
+CRITICAL - 2023-09-18 10:26:07 --> Class "App\Controllers\App\Models\ProductModel" not found
+in APPPATH\Controllers\ProductController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\testing\\public\\index.php')
+CRITICAL - 2023-09-18 10:40:30 --> Class "App\Controllers\App\Models\ProductModel" not found
+in APPPATH\Controllers\ProductController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\testing\\public\\index.php')
+CRITICAL - 2023-09-18 10:40:31 --> Class "App\Controllers\App\Models\ProductModel" not found
+in APPPATH\Controllers\ProductController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\testing\\public\\index.php')
+CRITICAL - 2023-09-18 10:40:33 --> Class "App\Controllers\App\Models\ProductModel" not found
+in APPPATH\Controllers\ProductController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\testing\\public\\index.php')
+CRITICAL - 2023-09-18 10:49:28 --> Class "App\Controllers\App\Models\ProductModel" not found
+in APPPATH\Controllers\ProductController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\testing\\public\\index.php')
+CRITICAL - 2023-09-18 11:30:51 --> Class 'App\Controllers\ProductModel' not found
+in APPPATH\Controllers\ProductController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\testing\\public\\index.php')
+CRITICAL - 2023-09-18 11:32:26 --> Class 'App\odels\ProductModel' not found
+in APPPATH\Controllers\ProductController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\testing\\public\\index.php')
+CRITICAL - 2023-09-18 11:33:06 --> Use of undefined constant ProductModel - assumed 'ProductModel' (this will throw an Error in a future version of PHP)
+in APPPATH\Controllers\ProductController.php on line 13.
+ 1 APPPATH\Controllers\ProductController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefined constant ProductModel - assumed \'ProductModel\' (this will throw an Error in a future version of PHP)', 'C:\\laragon\\www\\testing\\app\\Controllers\\ProductController.php', 13, [])
+ 2 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\ProductController->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\testing\\public\\index.php')
